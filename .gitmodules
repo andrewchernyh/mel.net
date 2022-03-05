@@ -1,0 +1,3 @@
+[submodule "libmel/eigen"]
+	path = libmel/eigen
+	url = https://gitlab.com/libeigen/eigen.git
